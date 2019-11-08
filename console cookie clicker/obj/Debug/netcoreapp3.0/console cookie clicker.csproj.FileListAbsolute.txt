@@ -1,0 +1,11 @@
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\bin\Debug\netcoreapp3.0\console cookie clicker.exe
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\bin\Debug\netcoreapp3.0\console cookie clicker.deps.json
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\bin\Debug\netcoreapp3.0\console cookie clicker.runtimeconfig.json
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\bin\Debug\netcoreapp3.0\console cookie clicker.runtimeconfig.dev.json
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\bin\Debug\netcoreapp3.0\console cookie clicker.dll
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\bin\Debug\netcoreapp3.0\console cookie clicker.pdb
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\obj\Debug\netcoreapp3.0\console cookie clicker.csprojAssemblyReference.cache
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\obj\Debug\netcoreapp3.0\console cookie clicker.AssemblyInfoInputs.cache
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\obj\Debug\netcoreapp3.0\console cookie clicker.AssemblyInfo.cs
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\obj\Debug\netcoreapp3.0\console cookie clicker.dll
+C:\Users\adilw\source\repos\console cookie clicker\console cookie clicker\obj\Debug\netcoreapp3.0\console cookie clicker.pdb
